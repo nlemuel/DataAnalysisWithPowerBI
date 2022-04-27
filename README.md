@@ -9,3 +9,5 @@ Foi feita uma análise dos dados de rendimento da Atliq Hardware que estava enfr
 * MySQL - para gerar e limpar os dados
 
 * PowerBI - para gerar a dashboard
+
+### Project source: codebasics YouTube channel.
